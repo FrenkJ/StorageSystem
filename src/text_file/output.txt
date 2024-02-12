@@ -1,0 +1,48 @@
+Product Name: Vegetable
+Price: 4.0
+Amount: 200
+
+Product Name: Detergent
+Price: 15.0
+Amount: 200
+
+Product Name: Vegetable
+Price: 4.0
+Amount Sent: 23
+Profit: 92.0
+
+Product Name: Vegetable
+Price: 4.0
+Amount Sent: 23
+Profit: 92.0
+
+Product Name: Vegetable
+Price: 4.0
+Amount Sent: 23
+Profit: 92.0
+
+Product Name: Vegetable
+Price: 4.0
+Amount Sent: 112
+Profit: 448.0
+
+Product Name: Vegetable
+Price: 4.0
+Amount Sent: 23
+Profit: 92.0
+
+Product Name: Vegetable
+Price: 4.0
+Amount Sent: 55
+Profit: 220.0
+
+Product Name: Vegetable
+Price: 4.0
+Amount Sent: 23
+Profit: 92.0
+
+Product Name: Vegetable
+Price: 4.0
+Amount Sent: 23
+Profit: 92.0
+
