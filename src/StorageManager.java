@@ -6,6 +6,8 @@ class StorageManager implements ProductManagement {
 
     public StorageManager() {
         this.products = new ArrayList<>();
+        // Initialize with some products
+
     }
 
     @Override
@@ -19,7 +21,12 @@ class StorageManager implements ProductManagement {
     }
 
     @Override
+    public void removeProduct(Product product) {
+        products.remove(product);
+    }
+
+    @Override
     public List<Product> getProducts() {
-        return products;
+        return null;
     }
 }
